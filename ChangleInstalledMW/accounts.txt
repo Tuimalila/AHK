@@ -1,0 +1,6 @@
+AT,prod-test,USER01,http://0.0.0.0/middleware/setup.exe
+AT,prod-test,USER02,http://0.0.0.0/middleware/setup.exe
+----,--------,---------,--------
+DE,prod-test,TESTDE,http://0.0.0.0/middleware/setup.exe
+----,--------,---------,--------
+BEGP,prod-test,BE01,http://0.0.0.0/middleware/setup.exe
